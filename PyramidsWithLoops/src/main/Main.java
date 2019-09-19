@@ -1,5 +1,5 @@
 /*
- * Bill Nicholson
+  * Bill Nicholson
  * nicholdw@ucmail.uc.edu
  * Printing pyramids using loops. It kind-of works. 
  * What I really want is
@@ -19,6 +19,8 @@ public class Main {
 			for (int j = 0; j < i+1; j++) {
 				System.out.print(j);
 			}
+			System.out.println("");
+			
 			System.out.println("");
 		}
 	}
